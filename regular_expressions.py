@@ -1,4 +1,4 @@
-# To allow regular expressions
+# To be able to use regular expressions 
 import re
 # then we write the regular expressions for the firls we want to match:
 # regular expression for e-mails
